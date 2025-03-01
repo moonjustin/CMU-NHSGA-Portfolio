@@ -3,7 +3,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class bogoSort {
+public class Bogosort {
     public static void main(String[] args) {
         Integer[] numbersToBeSorted = {5, 4, 3, 2, 1, 0};
         bogoSort(numbersToBeSorted);
