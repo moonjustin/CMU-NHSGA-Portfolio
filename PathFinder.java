@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class e4b {
+public class PathFinder {
     public static void main(String[] args) {
         ArrayList<Integer> path = new ArrayList<Integer>(); 
         List<List<Integer>> map = new ArrayList<>();
